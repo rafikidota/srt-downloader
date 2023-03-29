@@ -1,0 +1,5 @@
+# files
+*.srt
+
+# node modules
+/node_modules
